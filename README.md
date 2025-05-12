@@ -9,10 +9,13 @@ Ideal for applications requiring strong password creation.
 Python, random, string libraries
 
 #  Key Features:
-Customizable Password Length: 
+Customizable Password Length:
+
 Users can define how long the password should be.
+
 Strong Character Mix :
 Includes uppercase letters, lowercase letters, numbers, and special symbols for better security
+
 Secure Randomization :
 Uses Python's random and string libraries to generate unpredictable and unique passwords each time.
 
