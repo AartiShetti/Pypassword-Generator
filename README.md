@@ -1,3 +1,4 @@
 # Pypassword Generator
-![image](https://github.com/user-attachments/assets/5269ff87-925d-49ed-a93d-c16d7437f5f9)
+![image](https://github.com/user-attachments/assets/06b8537b-103e-4728-80f8-35ab002642e1)
+
 
